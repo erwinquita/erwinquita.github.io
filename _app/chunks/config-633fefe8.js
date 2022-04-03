@@ -1,0 +1,1 @@
+const t="Built with the SvelteKit Static Blog Starter",o=10,e=[{title:"Portfolio",route:"/portfolio"},{title:"About",route:"/about"},{title:"Blog",route:"/blog"},{title:"Contact",route:"/contact"}];export{e as n,o as p,t as s};
