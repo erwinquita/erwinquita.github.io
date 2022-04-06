@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-04a9a1bd.js",
+    "file": "start-ba40d6ea.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -43,7 +43,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-d6c57ff8.js",
+    "file": "pages/__layout.svelte-89867a23.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -143,7 +143,7 @@
     ]
   },
   "src/routes/portfolio-branding-magcoop.svelte": {
-    "file": "pages/portfolio-branding-magcoop.svelte-5ebe15ab.js",
+    "file": "pages/portfolio-branding-magcoop.svelte-a99e21f5.js",
     "src": "src/routes/portfolio-branding-magcoop.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -162,7 +162,7 @@
     ]
   },
   "src/routes/portfolio-webui-freelancer.svelte": {
-    "file": "pages/portfolio-webui-freelancer.svelte-054a65bc.js",
+    "file": "pages/portfolio-webui-freelancer.svelte-30640a0a.js",
     "src": "src/routes/portfolio-webui-freelancer.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
